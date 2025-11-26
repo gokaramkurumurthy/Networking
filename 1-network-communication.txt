@@ -1,0 +1,41 @@
+NETWORK COMMUNICATION 
+
+1. SIMPLEX 
+one way communication 
+sender => receiver only 
+example : tv, radio 
+
+2.HALF DUPLEX 
+two way , but not at the same time 
+devices take turns 
+example : walkie-talkie, push to talk apps 
+
+3. FULL DUPLEX 
+two way at the same time
+both send and recieve together 
+example : phone call, whatsapp call
+
+TYPES : 
+PHYSICAL FULL DUPLEX : separate send / recieve wires 
+LOGICAL FULL DUPLEX : software tricks (seen in wireless)
+
+
+TRANSMISSION TYPES ( HOW DATA IS DELIVERED)
+
+
+1. UNICAST : 
+one sender => one reciever 
+example : normal browsing, chatting with one person 
+
+2. BROADCAST : 
+one sender => everyone in the network 
+exaple : train announcements, sending message in the group
+
+3.MULTICAST : 
+one sender => a selected group 
+example : webinar, group streaming 
+
+4. ANYCAST :
+one sender => nearest / fastest reciever among many 
+example : nearest ATM, rapido
+
